@@ -26,9 +26,9 @@ Currently learning: Power BI, SQL, and Business Analytics tools
 
 Get in Touch
 
-📧 Email: tanmaybhardwaj2020@gmail.com
+📧 Email: tanmaybhardwaj490@gmail.com
 
-💼 LinkedIn: LinkedIn Profile (update this with your actual LinkedIn URL)
+💼 LinkedIn: https://www.linkedin.com/in/tanmay-bhardwaj-741b65244/
 
 Feel free to explore my projects, connect, or drop a message for collaborations or feedback! Let’s grow and make data work for us! 🚀
 
